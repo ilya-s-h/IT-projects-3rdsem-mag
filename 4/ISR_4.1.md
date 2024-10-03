@@ -1,6 +1,6 @@
 # Реализация добавления функции в существующем программном IT-проекте, использовав одну из стратегий ветвления (branching strategies)
 ## Анализ имеющихся стратегий[^1]
-[1]:(Ambroziak, P. Git Branching Strategies / P. Ambroziak. — Текст : электронный // TilburgSciencehHub : [сайт]. — URL: https://tilburgsciencehub.com/topics/automation/version-control/advanced-git/git-branching-strategies/ (дата обращения: 03.10.2024).)
+[^1]: Ambroziak, P. Git Branching Strategies / P. Ambroziak. — Текст : электронный // TilburgSciencehHub : [сайт]. — URL: https://tilburgsciencehub.com/topics/automation/version-control/advanced-git/git-branching-strategies/ (дата обращения: 03.10.2024).
 ### 1. Trunk-Based Development
 
 Trunk-Based Development — это стратегия ветвления, в которой разработчики вносят изменения непосредственно в основную ветку, обычно называемую стволом, которая содержит готовый к развертыванию код проекта.
